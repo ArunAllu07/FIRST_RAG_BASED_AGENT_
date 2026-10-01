@@ -1,0 +1,10 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+agent_memory.db
+agent_memory.db-shm
+agent_memory.db-wal
+chroma_db/
+vector_store/
